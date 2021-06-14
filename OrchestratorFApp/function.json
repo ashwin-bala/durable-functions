@@ -1,0 +1,9 @@
+{
+    "bindings": [
+      {
+        "name": "context",
+        "direction": "in",
+        "type": "orchestrationTrigger"
+      }
+    ]
+  }
